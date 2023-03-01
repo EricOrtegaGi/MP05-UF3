@@ -39,3 +39,14 @@ Object Management Group  (estandaritzacio el object model en totes les seves for
 7. Què té que veure OMG amb UML? 
 
 OMG es el responsable de mantindre uml des de que el van adoptar a la versio 1.1
+
+# Activitat Diagrames #
+
+1. Persona 
+2. Llibre
+3. Vehicle
+4. Ordenador
+
+![Blank diagram (1)](https://user-images.githubusercontent.com/114953110/222081892-39b63cf9-469b-4416-a3fd-57d902d5144f.jpeg)
+
+
